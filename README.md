@@ -1,5 +1,4 @@
-# ZJUT-PowerfulStraw-Public 工大吸管 ZJUT-PowerfulStraw
-provide the download resource of formal version of ZJUT-PowerfulStraw
+# 工大吸管 ZJUT-PowerfulStraw
 
 ## 这里是**中文**README
 
@@ -29,11 +28,12 @@ provide the download resource of formal version of ZJUT-PowerfulStraw
 ---
 | **计划名称**        | **状态** |
 |-----------------|--------|
-| 每个数据项的颜色修改      | 待完善    |
-| 搜索功能            | 完善中    |
+| 应用内更新           | 已完成    |
+| 每个数据项的颜色修改      | 完善中    |
+| 搜索功能            | 待完善    |
 | 课表 添加到主页的功能     | 待完善    |
 | 课表/日程 添加到主屏幕的功能 | 完善中    |
-| 绑定逻辑修复          | 完善中    |
+| 绑定逻辑修复          | 已完成    |
 | 使用LiveData缓存数据  | 待完善    |
 | 通知功能            | 待完善    |
 
@@ -72,11 +72,12 @@ provide the download resource of formal version of ZJUT-PowerfulStraw
 ---
 | **Plan Name**                                   | **Status**    |
 |-------------------------------------------------|---------------|
-| transform the color of each data view           | need progress |
-| function of searching                           | in progress   |
+| auto updating in application                    | finished      |
+| transform the color of each data view           | in progress   |
+| function of searching                           | need progress |
 | add Course Table to the Main Activity           | need progress |
 | add Course Table / Itinerary to the Main Screen | in progress   |
-| Binding fix                                     | in progress   |
+| Binding fix                                     | finished      |
 | use LiveData to save data                       | need progress |
 | function of Notification                        | need progress |
 
